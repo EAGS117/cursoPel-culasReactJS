@@ -1,0 +1,19 @@
+{
+  "name": "cursopeliculasreact",
+  "version": "1.0.0",
+  "description": "curso de react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EAGS117/cursoPel-culasReactJS.git"
+  },
+  "author": "Emilio Antonio Guerrero Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EAGS117/cursoPel-culasReactJS/issues"
+  },
+  "homepage": "https://github.com/EAGS117/cursoPel-culasReactJS#readme"
+}
